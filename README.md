@@ -4,6 +4,7 @@
 ## Introduction
 this is a simple web project for simiulate git 
 add a line for rebase
+addding line after rebase in feature
 ## Purpose
 this is a simple web project for simiulate git 
 ## Purpose
