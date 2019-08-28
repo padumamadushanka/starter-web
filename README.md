@@ -9,3 +9,6 @@ this is a simple web project for simiulate git
 ## Deployment
 this is a simple web project for simiulate git 
 ## How to contribute
+
+## copyrights
+2019 all rights reserved
