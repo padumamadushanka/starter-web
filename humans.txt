@@ -12,4 +12,4 @@ please leave areview
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
-    jQuery, Modernizr
+    jQuery, Modernizr, javascript
